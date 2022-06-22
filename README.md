@@ -2,40 +2,44 @@
 
 ## My name is **Lauren McLaughlin-Kelly** 
 
-### I recently graduated in May, 2022, with a Bachelors of Science in Biomedical Engineering on a pre-medicine track. I will be returning to the Univeristy of Buffalo to complete a Masters of Art in Biological Sciences, with a focus in Anatomy & Physiology.
+### I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
+
+I recently graduated in May, 2022, with a Bachelors of Science in Biomedical Engineering on a pre-medicine track. I will be returning to the Univeristy of Buffalo to complete a Masters of Art in Biological Sciences, with a focus in Anatomy & Physiology.
 
 I am currently based in the Bay Area & I am an Assay Development Research Intern at Lucira Health.
 
-I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
+### Resume
+To view my resume, click the link below.
+> insert resume
 
-### Markdown
+### Linkedin Link
+[Lauren McLaughlin-Kelly's Linkedin](http://www.linkedin.com/in/lauren-mclaughlin-kelly)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project
 
-```markdown
-Syntax highlighted code block
+Below I have a table of all of my undergraduate projects. To see a project, click the title and you will be brought to the project page
 
-# Header 1
-## Header 2
-### Header 3
+| Project Name | Project Year   | Course Code | Course Name |
+| ------------- | ------------- | ------------- |------------- |
+| **Wind Turbine**  | Fall 2018  | EAS199 | UB SEAS Seminar |
+| Great Pacific Garbage Patch  | Spring 2019  | EAS202 | Engineering Impact on Society |
+| Portable Ultra Sound To Detect Early Signs of Miscarriage | Summer 2019 | BE201 | Principles of Biomedical Engineering | 
+| Protein Analysis: ELISA |  Fall 2019 | BE311 | Biomedical Engineering Cellular and Molecular Lab | 
+| MATLAB Project | Fall 2019 | EAS230 | Engineering Computations |
+| Cystic Fibrosis Research Paper | Fall 2019 | BE305 | Biomaterial and Mechanics | 
+| Image Fusion | Spring 2020 | BE304 | Principles of Medical Imaging | 
+| Reaction Time | Spring 2021 | BE312 | Biomedical Engineering Biosignals Lab | 
+| Electromyography | Spring 2021 | BE312 | Biomedical Engineering Biosignals Lab | 
+| MATLAB Signal Processing | Spring 2021 | BE312 | Biomedical Engineering Biosignals Lab | 
+| **Leg Dissection** | Spring 2021 | PAS499 | Pathology and Anatomical Sciences Indepedent Dissection/Research |
+| **Arm & Hand Dissection** | Fall 2021 | PAS499 | Pathology and Anatomical Sciences Indepedent Dissection/Research |
+| Building a Temperature Sensor | Fall 2021 | BE403 | Biomedical Instrumentation |
+| Building a Comparator & Low Pass Filter | Fall 2021 | BE403 |  Biomedical Instrumentation |
+| Construct & Demonstrate a Simple Hearing Aid | Fall 2021 | BE403 |  Biomedical Instrumentation |
+| Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells | Fall 2021 | BE405 | Transport Processes in Biomedical Engineering |
+| **Nervous System Dissection** | Spring 2022| PAS499 | Pathology and Anatomical Sciences Indepedent Dissection/Research |
+| Total Ankle Replacement | Spring 2022 | BE450 | Orthopedics Science and Engineering | 
+| Circadian Rhythms | Spring 2022 | BE406 | Biological Systems Engineering | 
+| Anaylzing Biomechanics of Squats, Lunges, and Side Lunges | Spring 2022 | BE436 | Biomechanics of Human Movement |
+| **3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training** | Fall 2021 - Present | BE494 | Senior Design |
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lmmk416/lmmk416.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
