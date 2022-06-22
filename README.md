@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/Lmmk416/lmmk416.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## My name is **Lauren McLaughlin-Kelly** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I recently graduated in May, 2022, with a Bachelors of Science in Biomedical Engineering on a pre-medicine track. I will be returning to the Univeristy of Buffalo to complete a Masters of Art in Biological Sciences, with a focus in Anatomy & Physiology.
+
+I am currently based in the Bay Area & I am an Assay Development Research Intern at Lucira Health.
+
+I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
 
 ### Markdown
 
