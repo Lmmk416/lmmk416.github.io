@@ -10,9 +10,8 @@ I recently graduated in May, 2022, with a Bachelors of Science in Biomedical Eng
 
 I am currently based in the Bay Area & I am an Assay Development Research Intern at Lucira Health.
 
-### Resume
-To view my resume, click the link below.
-> insert resume
+### [Resume](lmmk416.github.io/Lauren_McLaughlin-Kelly_june_Resume.pdf)
+
 
 ### Linkedin Link
 [Lauren McLaughlin-Kelly's Linkedin](http://www.linkedin.com/in/lauren-mclaughlin-kelly)
