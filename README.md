@@ -4,8 +4,8 @@
 
 ### I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
 
-#### About Me
-<a href="About Me/">About Me</a>
+#### [About Me](https://lmmk416.github.io/about)
+
 
 I recently graduated in May, 2022, with a Bachelors of Science in Biomedical Engineering on a pre-medicine track. I will be returning to the Univeristy of Buffalo to complete a Masters of Art in Biological Sciences, with a focus in Anatomy & Physiology.
 
