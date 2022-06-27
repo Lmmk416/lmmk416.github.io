@@ -1,4 +1,4 @@
- # Projects
+ # Laurens Projects
  
 | Project Name  | Project Year  | Course Code   | Course Name   |
 | ------------- | ------------- | ------------- | ------------- |
