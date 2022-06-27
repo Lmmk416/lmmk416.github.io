@@ -17,7 +17,7 @@
 
 #### [Projects](https://Lmmk416.github.io/projects.html)
 
-##### [Projects](https://Lmmk416.github.io/projects.md)
+
 
 Below I have a table of all of my undergraduate projects. To see a project, click the title and you will be brought to the project page
 
