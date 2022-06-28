@@ -1,4 +1,4 @@
-Hello
+# Hello
 I recently graduated in May, 2022, with a Bachelors of Science in Biomedical Engineering on a pre-medicine track. 
 I will be returning to the Univeristy of Buffalo to complete a Masters of Art in Biological Sciences, with a focus in Anatomy & Physiology.
 
