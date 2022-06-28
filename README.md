@@ -5,8 +5,9 @@
 ### I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
 
 
-### [About Me](https://Lmmk416.github.io/aboutme.html)
+### [About Me HTML](https://Lmmk416.github.io/aboutme.html)
 
+#### [About Me .MD](https://Lmmk416.github.io/aboutme.md)
 
 
 ### [Resume](https://Lmmk416.github.io/resume.html.pdf)
@@ -15,9 +16,9 @@
 [Lauren McLaughlin-Kelly's Linkedin](http://www.linkedin.com/in/lauren-mclaughlin-kelly)
 
 
-#### [Projects](https://Lmmk416.github.io/projects.html)
+#### [Projects HTML](https://Lmmk416.github.io/projects.html)
 
-##### [Projects](https://Lmmk416.github.io/projects.md)
+##### [Projects .MD](https://Lmmk416.github.io/projects.md)
 
 
 Below I have a table of all of my undergraduate projects. To see a project, click the title and you will be brought to the project page
