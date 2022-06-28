@@ -9,17 +9,17 @@
 | [MATLAB Project](lmmk416.github.io/MATLABProject.html)  | Fall 2019   | EAS230  | Engineering Computations  |
 | [Cystic Fibrosis Research Paper](lmmk416.github.io/CysticFibrosisResearchPaper.html) | Fall 2019  | BE305  | Biomaterial and Mechanics  |
 | [Image Fusion](ImageFusion.html) | Spring 2020  | BE304  | Principles of Medical Imaging  |
-| [Reaction Time]  | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab |
+| [Reaction Time](lmmk416.github.io/ReactionTime.html)  | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab |
 | [Electromyography](lmmk416.github.io/Electromyography.html)  | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
 | [MATLAB Signal Processing](lmmk416.github.io/MATLABSignalProcessing.html) | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
-| [**Leg Dissection**]  |  Spring 2021 | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
-| [**Arm & Hand Dissection**]  | Fall 2021  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
-| [Building a Temperature Sensor]  | Fall 2021  | BE403  | Biomedical Instrumentation  |
-| [Building a Comparator & Low Pass Filter]  | Fall 2021  | BE403  | Biomedical Instrumentation  |
-| [Construct & Demonstrate a Simple Hearing Aid]  | Fall 2021  | BE403  | Biomedical Instrumentation  |
-| [Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells]  | Fall 2021  | BE405  | Transport Processes in Biomedical Engineering  |
-| [**Nervous System Dissection**] | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
-| [Total Ankle Replacement] | Spring 2022  | BE450  | Orthopedics Science and Engineering  |
-| [Circadian Rhythms]  | Spring 2022  | BE406  | Biological Systems Engineering  |
-| [Anaylzing Biomechanics of Squats, Lunges, and Side Lunges]  | Spring 2022  | BE436  | Biomechanics of Human Movement |
-| [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**]  | Fall 2021 - Present  | BE494  | Senior Design  |
+| [**Leg Dissection**](lmmk416.github.io/LegDissection.html)  |  Spring 2021 | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
+| [**Arm & Hand Dissection**](lmmk416.github.io/ArmHandDissection.html)  | Fall 2021  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
+| [Building a Temperature Sensor](lmmk416.github.io/BuildingATemperatureSensor.html)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
+| [Building a Comparator & Low Pass Filter](lmmk416.github.io/BuildingAComparatorAndLowPassFilter.html)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
+| [Construct & Demonstrate a Simple Hearing Aid](lmmk416.github.io/ConstructAndDemonstrateASimpleHearingAid.html)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
+| [Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells](lmmk416.github.io/OptimizationOfOxygenTransportinAMediaBasedBioreactorForNonAdherentCells.html)  | Fall 2021  | BE405  | Transport Processes in Biomedical Engineering  |
+| [**Nervous System Dissection**](lmmk416.github.io/NervousSystemDissection.html) | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
+| [Total Ankle Replacement](lmmk416.github.io/TotalAnkleReplacement.html) | Spring 2022  | BE450  | Orthopedics Science and Engineering  |
+| [Circadian Rhythms](lmmk416.github.io/CircadianRhythms.html)  | Spring 2022  | BE406  | Biological Systems Engineering  |
+| [Anaylzing Biomechanics of Squats, Lunges, and Side Lunges](lmmk416.github.io/AnaylzingBiomechanicsOfSquatsLungesSideLunges.html)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
+| [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.html)  | Fall 2021 - Present  | BE494  | Senior Design  |
