@@ -4,16 +4,13 @@
 
 ### I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
 
-
 ### [About Me HTML](https://Lmmk416.github.io/aboutme.html)
 
 ### [Resume](https://Lmmk416.github.io/resume.html.pdf)
 
-### Linkedin Link
-[Lauren McLaughlin-Kelly's Linkedin](http://www.linkedin.com/in/lauren-mclaughlin-kelly)
+### [Lauren McLaughlin-Kelly's Linkedin](http://www.linkedin.com/in/lauren-mclaughlin-kelly)
 
-
-#### [Projects HTML](https://Lmmk416.github.io/projects.html)
+### [Projects HTML](https://Lmmk416.github.io/projects.html)
 
 
 
