@@ -18,8 +18,8 @@
 | [Building a Comparator & Low Pass Filter](https://Lmmk416.github.io/ComparatorLowPassFilter.pdf)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Construct & Demonstrate a Simple Hearing Aid](https://Lmmk416.github.io/HearingAid.pdf)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells](https://Lmmk416.github.io/OptimizationOxygenTransport.pdf)  | Fall 2021  | BE405  | Transport Processes in Biomedical Engineering  |
-| [**Nervous System Dissection**](lmmk416.github.io/NervousSystemDissection.html) | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
-| [Total Ankle Replacement](https://Lmmk416.github.io/TotalAnkleReplacement)  | Spring 2022  | BE450  | Orthopedics Science and Engineering  |
+| [**Nervous System Dissection**]() | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
+| [Total Ankle Replacement](https://Lmmk416.github.io/TotalAnkleReplacement.pdf)  | Spring 2022  | BE450  | Orthopedics Science and Engineering  |
 | [MATLAB Biological Analysis](https://Lmmk416.github.io/MATLABBiologicalAnalysis.pdf)  | Spring 2022  | BE406  | Biological Systems Engineering  |
 | [Analyzing Biomechanics of Gait](https://Lmmk416.github.io/BiomechanicsGait.pdf)   | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [Anaylzing Biomechanics of Squats, Lunges, and Side Lunges](https://Lmmk416.github.io/Biomechanics.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
