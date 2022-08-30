@@ -3,7 +3,7 @@
 | Project Name  | Project Year  | Course Code   | Course Name   |
 | ------------- | ------------- | ------------- | ------------- |
 | [**Wind Turbine**](https://Lmmk416.github.io/WindTurbine.pdf) | Fall 2018  | EAS199  | UB SEAS Seminar   |
-| [Portable Ultra Sound To Detect Early Signs of Miscarriage](lmmk416.github.io/PortableUltraSoundToDetectEarlySignsofMiscarriage.html)  | Summer 2019  | BE201  | Principles of Biomedical Engineering |
+| [Portable Ultra Sound To Detect Early Signs of Miscarriage](https://Lmmk416.github.io/PortableUltraSoundToDetectEarlySignsofMiscarriage.pdf)  | Summer 2019  | BE201  | Principles of Biomedical Engineering |
 | [Protein Analysis: ELISA](lmmk416.github.io/ProteinAnalysisELISA.html)   | Fall 2019  | BE311  | Biomedical Engineering Cellular and Molecular Lab  |
 | [MATLAB Project](lmmk416.github.io/MATLABProject.html)  | Fall 2019   | EAS230  | Engineering Computations  |
 | [Cystic Fibrosis Research Paper](https://Lmmk416.github.io/CysticFibrosisResearchPaper.pdf) | Fall 2019  | BE305  | Biomaterial and Mechanics  |
