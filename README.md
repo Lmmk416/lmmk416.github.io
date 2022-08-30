@@ -6,6 +6,8 @@
 
 ### [About Me HTML](https://Lmmk416.github.io/aboutme.html)
 
+### [About Me PDF](https://Lmmk416.github.io/AboutMe.pdf) 
+
 ### [Resume](https://Lmmk416.github.io/resume.html.pdf)
 
 ### [Lauren McLaughlin-Kelly's Linkedin](http://www.linkedin.com/in/lauren-mclaughlin-kelly)
