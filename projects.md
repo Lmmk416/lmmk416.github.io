@@ -25,3 +25,4 @@
 | [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.html)  | Fall 2021 - Present  | BE494  | Senior Design  |
 | [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.md)|
 
+| [**Wind Turbine**](lmmk416.github.io/windturbine.md) | Fall 2018  | EAS199  | UB SEAS Seminar   |
