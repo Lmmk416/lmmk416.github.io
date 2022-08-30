@@ -26,3 +26,4 @@
 | [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.md)|
 
 | [**Wind Turbine**](lmmk416.github.io/windturbine.html.pdf) | Fall 2018  | EAS199  | UB SEAS Seminar   |
+| [**Wind Turbine**](lmmk416.github.io/windturbinepage.md) | Fall 2018  | EAS199  | UB SEAS Seminar   |
