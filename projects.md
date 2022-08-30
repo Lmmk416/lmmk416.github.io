@@ -20,10 +20,11 @@
 | [Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells](https://Lmmk416.github.io/OptimizationOxygenTransport.pdf)  | Fall 2021  | BE405  | Transport Processes in Biomedical Engineering  |
 | [**Nervous System Dissection**](lmmk416.github.io/NervousSystemDissection.html) | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | [Total Ankle Replacement](https://Lmmk416.github.io/TotalAnkleReplacement)  | Spring 2022  | BE450  | Orthopedics Science and Engineering  |
-| [Circadian Rhythms](lmmk416.github.io/CircadianRhythms.html)  | Spring 2022  | BE406  | Biological Systems Engineering  |
+| [MATLAB Biological Analysis](https://Lmmk416.github.io/MATLABBiologicalAnalysis.pdf)  | Spring 2022  | BE406  | Biological Systems Engineering  |
 | [Analyzing Biomechanics of Gait](https://Lmmk416.github.io/BiomechanicsGait.pdf)   | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [Anaylzing Biomechanics of Squats, Lunges, and Side Lunges](https://Lmmk416.github.io/Biomechanics.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [Anaylzing Biomechanics of Vertical Jumps](https://Lmmk416.github.io/BiomechanicsJumps.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
+| [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training Design Proposal**](https://Lmmk416.github.io/Design Proposal.pdf)  | Fall 2021 - Present  | BE494  | Senior Design  |
 | [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.html)  | Fall 2021 - Present  | BE494  | Senior Design  |
 
 
