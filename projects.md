@@ -15,8 +15,8 @@
 | [**Leg Dissection**](lmmk416.github.io/LegDissection.html)| Spring 2021 | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | [**Arm & Hand Dissection**](lmmk416.github.io/ArmHandDissection.html)  | Fall 2021  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | [Building a Temperature Sensor](https://Lmmk416.github.io/TemperatureSensor.pdf) | Fall 2021  | BE403  | Biomedical Instrumentation  |
-| [Building a Comparator & Low Pass Filter](lmmk416.github.io/BuildingAComparatorAndLowPassFilter.html)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
-| [Construct & Demonstrate a Simple Hearing Aid](lmmk416.github.io/ConstructAndDemonstrateASimpleHearingAid.html)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
+| [Building a Comparator & Low Pass Filter](https://Lmmk416.github.io/ComparatorLowPassFilter.pdf)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
+| [Construct & Demonstrate a Simple Hearing Aid](https://Lmmk416.github.io/HearingAid.pdf)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells](https://Lmmk416.github.io/OptimizationOxygenTransport.pdf)  | Fall 2021  | BE405  | Transport Processes in Biomedical Engineering  |
 | [**Nervous System Dissection**](lmmk416.github.io/NervousSystemDissection.html) | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | [Total Ankle Replacement](https://Lmmk416.github.io/TotalAnkleReplacement)  | Spring 2022  | BE450  | Orthopedics Science and Engineering  |
