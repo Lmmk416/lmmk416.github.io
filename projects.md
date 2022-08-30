@@ -23,7 +23,7 @@
 | [Circadian Rhythms](lmmk416.github.io/CircadianRhythms.html)  | Spring 2022  | BE406  | Biological Systems Engineering  |
 | [Analyzing Biomechanics of Gait](https://Lmmk416.github.io/BiomechanicsGait.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [Anaylzing Biomechanics of Squats, Lunges, and Side Lunges](https://Lmmk416.github.io/Biomechanics.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
-| [Anaylzing Biomechanics of Vertical Jump's](https://Lmmk416.github.io/BiomechanicsJumps.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
+| [Anaylzing Biomechanics of Vertical Jumps](https://Lmmk416.github.io/BiomechanicsJumps.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.html)  | Fall 2021 - Present  | BE494  | Senior Design  |
 
 
