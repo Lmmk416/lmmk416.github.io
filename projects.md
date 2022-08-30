@@ -17,12 +17,12 @@
 | [Building a Temperature Sensor](lmmk416.github.io/BuildingATemperatureSensor.html)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Building a Comparator & Low Pass Filter](lmmk416.github.io/BuildingAComparatorAndLowPassFilter.html)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Construct & Demonstrate a Simple Hearing Aid](lmmk416.github.io/ConstructAndDemonstrateASimpleHearingAid.html)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
-| [Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells](https://Lmmk416.github.io/OptimizationOxygenTransport)  | Fall 2021  | BE405  | Transport Processes in Biomedical Engineering  |
+| [Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells] (https://Lmmk416.github.io/OptimizationOxygenTransport.pdf)  | Fall 2021  | BE405  | Transport Processes in Biomedical Engineering  |
 | [**Nervous System Dissection**](lmmk416.github.io/NervousSystemDissection.html) | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | [Total Ankle Replacement](lmmk416.github.io/TotalAnkleReplacement.html) | Spring 2022  | BE450  | Orthopedics Science and Engineering  |
 | [Circadian Rhythms](lmmk416.github.io/CircadianRhythms.html)  | Spring 2022  | BE406  | Biological Systems Engineering  |
 | [Anaylzing Biomechanics of Squats, Lunges, and Side Lunges](lmmk416.github.io/AnaylzingBiomechanicsOfSquatsLungesSideLunges.html)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.html)  | Fall 2021 - Present  | BE494  | Senior Design  |
-| [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.md)|
+
 
 
