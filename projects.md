@@ -7,7 +7,7 @@
 | [Portable Ultra Sound To Detect Early Signs of Miscarriage](lmmk416.github.io/PortableUltraSoundToDetectEarlySignsofMiscarriage.html)  | Summer 2019  | BE201  | Principles of Biomedical Engineering |
 | [Protein Analysis: ELISA](lmmk416.github.io/ProteinAnalysisELISA.html)   | Fall 2019  | BE311  | Biomedical Engineering Cellular and Molecular Lab  |
 | [MATLAB Project](lmmk416.github.io/MATLABProject.html)  | Fall 2019   | EAS230  | Engineering Computations  |
-| [Cystic Fibrosis Research Paper](lmmk416.github.io/CysticFibrosisResearchPaper.pdf) | Fall 2019  | BE305  | Biomaterial and Mechanics  |
+| [Cystic Fibrosis Research Paper](lmmk416.github.io/CysticFibrosisResearchPaper.html.pdf) | Fall 2019  | BE305  | Biomaterial and Mechanics  |
 | [Image Fusion](ImageFusion.html) | Spring 2020  | BE304  | Principles of Medical Imaging  |
 | [Reaction Time](lmmk416.github.io/ReactionTime.html)  | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab |
 | [Electromyography](lmmk416.github.io/Electromyography.html)  | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
@@ -24,4 +24,4 @@
 | [Anaylzing Biomechanics of Squats, Lunges, and Side Lunges](lmmk416.github.io/AnaylzingBiomechanicsOfSquatsLungesSideLunges.html)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.html)  | Fall 2021 - Present  | BE494  | Senior Design  |
 | [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.md)|
-| [**Test**](lmmk416.github.io/test.html)  | Fall 2021 - Present  | BE494  | Senior Design  |
+
