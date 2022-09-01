@@ -2,6 +2,8 @@
  
 ## My name is **Lauren McLaughlin-Kelly** 
 
+
+
 ### I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
 
 ### [About Me](https://lmmk416.github.io/AboutMe.pdf)
