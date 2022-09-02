@@ -5,7 +5,7 @@ Lauren McLaughlin-Kelly
 
 
 
-### I am looking for a full-time Medical Devices Engineering position in the Bay Area, with a start date after May 2023.
+### I am looking to pursue a Medical Devices Engineering position in the Bay Area. Im looking to start June 2023, upon completion of my masters degree
 
 ### [About Me](https://lmmk416.github.io/AboutMe.pdf)
 
