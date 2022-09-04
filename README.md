@@ -1,7 +1,8 @@
-Lauren McLaughlin-Kelly
+
 # Welcome to my website
  
 ## My name is **Lauren McLaughlin-Kelly** 
+
 
 
 
