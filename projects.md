@@ -12,13 +12,13 @@
 | [Electromyography](https://Lmmk416.github.io/EMG.pdf) | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
 | [Electrocardiography](https://Lmmk416.github.io/EKG.pdf)  | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
 | [MATLAB Signal Processing](https://Lmmk416.github.io/MATLABSignalProcessing.pdf) | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
-| [**Leg Dissection**](https://Lmmk416.github.io/Legdissection.pdf)| Spring 2021 | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
-| [**Arm & Hand Dissection**](lmmk416.github.io/ArmHandDissection.html)  | Fall 2021  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
+| [Leg Dissection](https://Lmmk416.github.io/Legdissection.pdf)| Spring 2021 | PAS499 | Pathology and Anatomical Sciences Independent Dissection/Research  |
+| Arm & Hand Dissection  | Fall 2021  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | [Building a Temperature Sensor](https://Lmmk416.github.io/TemperatureSensor.pdf) | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Building a Comparator & Low Pass Filter](https://Lmmk416.github.io/ComparatorLowPassFilter.pdf)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Construct & Demonstrate a Simple Hearing Aid](https://Lmmk416.github.io/HearingAid.pdf)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Optimization of Oxygen Transport in a Media Based Bioreactor for Non-Adherent Cells](https://Lmmk416.github.io/OptimizationOxygenTransport.pdf)  | Fall 2021  | BE405  | Transport Processes in Biomedical Engineering  |
-| [**Nervous System Dissection**]() | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
+| Nervous System Dissection | Spring 2022  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | [Total Ankle Replacement](https://Lmmk416.github.io/TotalAnkleReplacement.pdf)  | Spring 2022  | BE450  | Orthopedics Science and Engineering  |
 | [MATLAB Biological Analysis](https://Lmmk416.github.io/MATLABBiologicalAnalysis.pdf)  | Spring 2022  | BE406  | Biological Systems Engineering  |
 | [Analyzing Biomechanics of Gait](https://Lmmk416.github.io/BiomechanicsGait.pdf)   | Spring 2022  | BE436  | Biomechanics of Human Movement |
