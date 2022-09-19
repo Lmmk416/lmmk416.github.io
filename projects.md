@@ -12,7 +12,7 @@
 | [Electromyography](https://Lmmk416.github.io/EMG.pdf) | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
 | [Electrocardiography](https://Lmmk416.github.io/EKG.pdf)  | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
 | [MATLAB Signal Processing](https://Lmmk416.github.io/MATLABSignalProcessing.pdf) | Spring 2021  | BE312  | Biomedical Engineering Biosignals Lab  |
-| [Leg Dissection](https://Lmmk416.github.io/Legdissection.pdf)| Spring 2021 | PAS499 | Pathology and Anatomical Sciences Independent Dissection/Research  |
+| [Leg Dissection]| Spring 2021 | PAS499 | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | Arm & Hand Dissection  | Fall 2021  | PAS499  | Pathology and Anatomical Sciences Independent Dissection/Research  |
 | [Building a Temperature Sensor](https://Lmmk416.github.io/TemperatureSensor.pdf) | Fall 2021  | BE403  | Biomedical Instrumentation  |
 | [Building a Comparator & Low Pass Filter](https://Lmmk416.github.io/ComparatorLowPassFilter.pdf)  | Fall 2021  | BE403  | Biomedical Instrumentation  |
@@ -24,7 +24,7 @@
 | [Analyzing Biomechanics of Gait](https://Lmmk416.github.io/BiomechanicsGait.pdf)   | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [Anaylzing Biomechanics of Squats, Lunges, and Side Lunges](https://Lmmk416.github.io/Biomechanics.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
 | [Anaylzing Biomechanics of Vertical Jumps](https://Lmmk416.github.io/BiomechanicsJumps.pdf)  | Spring 2022  | BE436  | Biomechanics of Human Movement |
-| [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**](lmmk416.github.io/3DPrintedAnatomicallyCorrectHandForOrthopedicSurgicalTraining.html)  | Fall 2021 - Present  | BE494  | Senior Design  |
+| [**3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**]  | Fall 2021 - Present  | BE494  | Senior Design  |
 | COVID-19 FLU A + B Test Elution Buffer Guardbanding  | Summer 2022  | Internship  | Lucira Health |
 | COVID-19 FLU A + B  Test Pellet Guardbanding  | Summer 2022  | Internship  | Lucira Health |
 
