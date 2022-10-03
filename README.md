@@ -1,9 +1,4 @@
 
-# Welcome to my website
- 
-## My name is **Lauren McLaughlin-Kelly** 
-
-
 
 
 ### I am looking to pursue a Medical Devices Engineering position in the Bay Area. Im looking to start after May 2023, upon completion of my masters degree.
