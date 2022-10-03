@@ -1,4 +1,4 @@
-# My name is Lauren McLaughlin-Kelly
+Lauren McLaughlin-Kelly's Website
 
 ## Welcome to my website/online portfolio 
 
