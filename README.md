@@ -1,4 +1,4 @@
-#Lauren McLaughlin-Kelly's Website
+# Lauren McLaughlin-Kelly's Website
 
 ## Welcome to my website/online portfolio 
 
