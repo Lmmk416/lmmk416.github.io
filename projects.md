@@ -28,4 +28,4 @@
 | COVID-19 FLU A + B Test Elution Buffer Guardbanding  | Summer 2022  | Internship  | Lucira Health |
 | COVID-19 FLU A + B  Test Pellet Guardbanding  | Summer 2022  | Internship  | Lucira Health |
 
-
+* More information available upon request for each project 
