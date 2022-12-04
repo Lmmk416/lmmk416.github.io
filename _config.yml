@@ -1,13 +1,7 @@
-theme: jekyll-theme-cayman
-title: Lauren McLaughlin-Kelly's Website
-
-
-
-# Name of website
-title: My Website
+title: Lauren McLaughlin-Kellys Website
 
 # Your name to show in the footer
-author: Some Person
+author: Lauren McLaughlin-Kelly
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -15,7 +9,6 @@ author: Some Person
 ## Welcome to my website/online portfolio 
 
 ### I am looking to pursue a Medical Devices Engineering position in the Bay Area, New York City, or in Boston. Im looking to start after May 2023, upon completion of my masters degree.
-
 
 
 navbar-links:
