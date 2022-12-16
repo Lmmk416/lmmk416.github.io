@@ -9,6 +9,8 @@
 
 ### [Resume](https://Lmmk416.github.io/resume.html.pdf)
 
+### [CV](https://Lmmk416.github.io/cv.html.pdf)
+
 ### [Lauren McLaughlin-Kelly's Linkedin](http://www.linkedin.com/in/lauren-mclaughlin-kelly)
 
 ### [Projects HTML](https://Lmmk416.github.io/projects.html)
