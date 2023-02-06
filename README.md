@@ -1,8 +1,4 @@
-
-#![repository-open-graph-template](https://user-images.githubusercontent.com/107513811/217091862-3758a1fb-83b1-41d2-8cef-c856053a7e57.png)
-
 ## Welcome to my website/online portfolio 
-
 
 ### I am looking to pursue a Medical Devices Engineering position in the Bay Area or New York City. Im looking to start after May 2023, upon completion of my masters degree.
 
