@@ -3,7 +3,7 @@
 ## Welcome to my website/online portfolio 
 
 
-### I am looking to pursue a Medical Devices Engineering position in the Bay Area, New York City, or in Boston. Im looking to start after May 2023, upon completion of my masters degree.
+### I am looking to pursue a Medical Devices Engineering position in the Bay Area or New York City. Im looking to start after May 2023, upon completion of my masters degree.
 
 ### [About Me](https://lmmk416.github.io/AboutMe.pdf)
 
