@@ -1,3 +1,6 @@
+
+![repository-open-graph-template](https://user-images.githubusercontent.com/107513811/217091862-3758a1fb-83b1-41d2-8cef-c856053a7e57.png)
+
 # Lauren McLaughlin-Kelly's Website
 
 ## Welcome to my website/online portfolio 
@@ -14,6 +17,7 @@
 ### [Lauren McLaughlin-Kelly's Linkedin](http://www.linkedin.com/in/lauren-mclaughlin-kelly)
 
 ### [Projects HTML](https://Lmmk416.github.io/projects.html)
+
 
 
 
