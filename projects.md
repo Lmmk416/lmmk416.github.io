@@ -27,6 +27,7 @@
 | **3D Printed, Anatomically Correct Hand for Orthopedic Surgical Training**  | Fall 2021 - Present  | BE494  | Senior Design  |
 | COVID-19 FLU A + B Test Elution Buffer Guardbanding  | Summer 2022  | Internship  | Lucira Health |
 | COVID-19 FLU A + B  Test Pellet Guardbanding  | Summer 2022  | Internship  | Lucira Health |
-| 3D Printed Phalange Brace for Ehlers Danlos Syndrome & arthritis  | Fall 2022 - Present  | BE598  | Independent Project |
+| **3D Printed Phalange Brace for Ehlers Danlos Syndrome & Arthritis**  | Fall 2022 - Present  | BE598  | Independent Project |
+| **Evaluating Soft Embalmed Cadavers for Medical Education, Research, and Training**  | Fall 2022 - Present  | PAS650  | Masters Research |
 
 * More information available upon request for each project 
