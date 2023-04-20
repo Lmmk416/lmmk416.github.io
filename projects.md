@@ -28,6 +28,6 @@
 | COVID-19 FLU A + B Test Elution Buffer Guardbanding  | Summer 2022  | Internship  | Lucira Health |
 | COVID-19 FLU A + B  Test Pellet Guardbanding  | Summer 2022  | Internship  | Lucira Health |
 | **3D Printed Phalange Brace for Ehlers Danlos Syndrome & Arthritis**  | Fall 2022 - Present  | BE598  | Independent Project |
-| [**Evaluating Soft Embalmed Cadavers for Medical Education, Research, and Training**] (https://Lmmk416.github.io/Soft_embalmed.pdf)  | Fall 2022 - Present  | PAS650  | Masters Research |
+| [**Evaluating Soft Embalmed Cadavers for Medical Education, Research, and Training**](https://Lmmk416.github.io/Soft_embalmed.pdf)  | Fall 2022 - Present  | PAS650  | Masters Research |
 
 * More information available upon request for each project 
